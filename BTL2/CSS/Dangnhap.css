@@ -1,0 +1,42 @@
+﻿#dangnhap-tt {
+    border: 1px solid black;
+    width: 400px;
+    height: 250px;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius:20px;
+    background:linear-gradient(rgb(235 194 212),rgb(227 233 235),rgb(216 239 238));
+}
+
+    #dangnhap-tt h1 {
+        font-size:25px;
+        color: rgb(47 202 112);
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+    }
+    #dangnhap-tt .form-tt {
+        text-align: center;
+        font-family: Kunstler Script;
+    }
+#dangnhap-tt .form-tt input{
+    border:none;
+}
+.form-tt #btnsubmit{
+    width:80px;
+    height:40px;
+    background:rgb(47 202 112);
+    border-radius:6px;
+}
+.form-tt #dangki{
+    width:80px;
+    height:40px;
+    background:rgb(0 148 255);
+    border-radius:6px;
+}
+.form-tt #dangki a{
+    color:black;
+}
+#dangnhap-tt #loilogin{
+    text-align:center;
+    color:red;
+}

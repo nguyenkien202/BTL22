@@ -1,0 +1,55 @@
+﻿.dangki-tt {
+    width: 400px;
+    height: 300px;
+    padding: 55px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    background:linear-gradient(rgb(235 194 212),rgb(227 233 235),rgb(216 239 238));
+}
+.dangki-tt #form-dk{
+    text-align:center;
+    border:none;
+    font-family:'Times New Roman', Times, serif;
+}
+.dangki-tt h2{
+    color:chocolate;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    text-transform:uppercase;
+}
+ .form-dk #btnlogin{
+    width:90px;
+    height:40px;
+    background:rgb(255 216 0);
+    border-radius:12px;
+    text-align:center;
+}
+ .form-dk #btnlogin:hover {
+     width:90px;
+     height:40px;
+      background: rgb(255 106 0);
+      border-radius:12px;
+      text-align:center;
+    }
+.form-dk #btnlogin1 {
+    width: 90px;
+    height: 40px;
+    background: rgb(255 216 0);
+    border-radius: 12px;
+    text-align: center;
+}
+    .form-dk #btnlogin1 {
+        width: 90px;
+        height: 40px;
+        background: rgb(255 216 0);
+        border-radius: 12px;
+        text-align: center;
+    }
+.form-dk #btnlogin a {
+    color: black;
+}
+button{
+justify-content:center;
+}
+   
